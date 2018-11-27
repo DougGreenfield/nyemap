@@ -141,7 +141,7 @@
 { "type": "Feature", "properties": { "NAME": "Halifax", "ST": "PA", "POP_CLASS": 0, "POP2010": 0, "Object": "Tree" }, "geometry": { "type": "Point", "coordinates": [ -76.929405828587434, 40.468091184052774 ] } },
 { "type": "Feature", "properties": { "NAME": "Hummelstown", "ST": "PA", "POP_CLASS": 0, "POP2010": 0, "Object": "Lollipop" }, "geometry": { "type": "Point", "coordinates": [ -76.711923092654544, 40.26450450039399 ] } },
 { "type": "Feature", "properties": { "NAME": "Ickesburg", "ST": "PA", "POP_CLASS": 0, "POP2010": 0, "Object": "French Fry" }, "geometry": { "type": "Point", "coordinates": [ -77.360250454704882, 40.451912067497183 ] } },
-{ "type": "Feature", "properties": { "NAME": "Lewistown", "ST": "PA", "POP_CLASS": 0, "POP2010": 0, "Object": "Bag of Poitato Chips" }, "geometry": { "type": "Point", "coordinates": [ -77.572368172318704, 40.600339418617033 ] } },
+{ "type": "Feature", "properties": { "NAME": "Lewistown", "ST": "PA", "POP_CLASS": 0, "POP2010": 0, "Object": "Bag of Potato Chips" }, "geometry": { "type": "Point", "coordinates": [ -77.572368172318704, 40.600339418617033 ] } },
 { "type": "Feature", "properties": { "NAME": "Lisburn", "ST": "PA", "POP_CLASS": 0, "POP2010": 0, "Object": "Yellow Pants" }, "geometry": { "type": "Point", "coordinates": [ -76.916747349845593, 40.184592294482535 ] } },
 { "type": "Feature", "properties": { "NAME": "Lititz", "ST": "PA", "POP_CLASS": 0, "POP2010": 0, "Object": "Star" }, "geometry": { "type": "Point", "coordinates": [ -76.304845157586271, 40.157621103981455 ] } },
 { "type": "Feature", "properties": { "NAME": "Liverpool", "ST": "PA", "POP_CLASS": 0, "POP2010": 0, "Object": "Canal Boat" }, "geometry": { "type": "Point", "coordinates": [ -76.991272068548213, 40.575073742844317 ] } },
